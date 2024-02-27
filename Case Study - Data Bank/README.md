@@ -1,4 +1,4 @@
-# 🏦 Case Study #4: Data Bank 
+# 🏦 Case Study - Data Bank: Bridging Finance, Security, and Data Innovation. 
 <p align="center">
 <img src="https://github.com/Favourewoh/SQL-Projects/assets/124405367/934aab61-a55d-4b6d-ab81-4a3572813626" alt="Image" width="450" height="450">
 
@@ -100,54 +100,54 @@ Below is a sample of the top 10 rows of the ```data_bank.customer_Transactions``
 
 
 ## Case Study Questions
-### A. [Customer Nodes Exploration](https://github.com/Favourewoh/SQL-Projects/blob/631c92c3d62495eca960a3cc13b70212d15a3719/Case%20Study%20-%20Data%20Bank/Section%20A%20-%20Exploring%20Customer%20Nodes.md)
+### A. [Customer Nodes Exploration](https://github.com/Favourewoh/SQL-Projects/blob/b47dd51f10c3681703355cf3ec6f810ead379c7b/Case%20Study%20-%20Data%20Bank/Section%20A%20-%20Exploring%20Customer%20Nodes.md)
 1. How many unique nodes are there on the Data Bank system?
 2. What is the number of nodes per region?
 3. How many customers are allocated to each region?
 4. How many days on average are customers reallocated to a different node?
 5. What is the median, 80th, and 95th percentile for this same reallocation days metric for each region?
 
-### B. [Customer Transactions](https://github.com/Favourewoh/SQL-Projects/blob/631c92c3d62495eca960a3cc13b70212d15a3719/Case%20Study%20-%20Data%20Bank/Section%20B%20-%20Exploring%20Customer%20Transactions.md)
+### B. [Customer Transactions](https://github.com/Favourewoh/SQL-Projects/blob/b47dd51f10c3681703355cf3ec6f810ead379c7b/Case%20Study%20-%20Data%20Bank/Section%20B%20-%20Exploring%20Customer%20Transactions.md)
 1. What is the unique count and total amount for each transaction type?
 2. What are the average total historical deposit counts and amounts for all customers?
 3. For each month - how many Data Bank customers make more than 1 deposit and either 1 purchase or 1 withdrawal in a single month?
 4. What is the closing balance for each customer at the end of the month?
 5. What is the percentage of customers who increase their closing balance by more than 5%?
 
-### C. [Data Allocation Challenge](https://github.com/Favourewoh/SQL-Projects/blob/631c92c3d62495eca960a3cc13b70212d15a3719/Case%20Study%20-%20Data%20Bank/Data%20Allocation%20Solution.md)
+### C. [Data Allocation Challenge](https://github.com/Favourewoh/SQL-Projects/blob/b47dd51f10c3681703355cf3ec6f810ead379c7b/Case%20Study%20-%20Data%20Bank/Data%20Allocation%20Solution.md)
 To test out a few different hypotheses - the Data Bank team wants to run an experiment where different groups of customers would be allocated data using 3 different options:
 
-- Option 1: data is allocated based off the amount of money at the end of the previous month
+- Option 1: data is allocated based on the amount of money at the end of the previous month
 - Option 2: data is allocated on the average amount of money kept in the account in the previous 30 days
-- Option 3: data is updated real-time
+- Option 3: data is updated real time
 For this multi-part challenge question - you have been requested to generate the following data elements to help the Data Bank team estimate how much data will need to be provisioned for each option:
 
-1. running customer balance column that includes the impact each transaction
+1. running a customer balance column that includes the impact of each transaction
 2. customer balance at the end of each month
-3. minimum, average and maximum values of the running balance for each customer
+3. minimum, average, and maximum values of the running balance for each customer
 Using all of the data available - how much data would have been required for each option on a monthly basis?
 
 
-### D. [Extra Challenge](https://github.com/Favourewoh/SQL-Projects/blob/631c92c3d62495eca960a3cc13b70212d15a3719/Case%20Study%20-%20Data%20Bank/Extra%20Challenge%20Solution.md)
+### D. [Extra Challenge](https://github.com/Favourewoh/SQL-Projects/blob/b47dd51f10c3681703355cf3ec6f810ead379c7b/Case%20Study%20-%20Data%20Bank/Extra%20Challenge%20Solution.md)
 Data Bank wants to try another option which is a bit more difficult to implement - they want to calculate data growth using an interest calculation, just like in a traditional savings account you might have with a bank.
 
-If the annual interest rate is set at 6% and the Data Bank team wants to reward its customers by increasing their data allocation based off the interest calculated daily at the end of each day, how much data would be required for this option on a monthly basis?
+If the annual interest rate is set at 6% and the Data Bank team wants to reward its customers by increasing their data allocation based on the interest calculated daily at the end of each day, how much data would be required for this option on a monthly basis?
 
 Special notes:
 
-- Data Bank wants an initial calculation which does not allow for compounding interest, however they may also be interested in a daily compounding interest calculation so you can try to perform this calculation if you have the stamina!
+- Data Bank wants an initial calculation that does not allow for compounding interest, however, they may also be interested in a daily compounding interest calculation so you can try to perform this calculation if you have the stamina!
 
 
-### E. [Extension Request](https://github.com/Favourewoh/SQL-Projects/blob/631c92c3d62495eca960a3cc13b70212d15a3719/Case%20Study%20-%20Data%20Bank/Extension%20Request.md)
-The Data Bank team wants you to use the outputs generated from the above sections to create a quick Powerpoint presentation which will be used as marketing materials for both external investors who might want to buy Data Bank shares and new prospective customers who might want to bank with Data Bank.
+### E. [Extension Request](https://github.com/Favourewoh/SQL-Projects/blob/b47dd51f10c3681703355cf3ec6f810ead379c7b/Case%20Study%20-%20Data%20Bank/Extension%20Request.md)
+The Data Bank team wants you to use the outputs generated from the above sections to create a quick PowerPoint presentation that will be used as marketing materials for external investors who might want to buy Data Bank shares and new prospective customers who might want to bank with Data Bank.
 
-1. Using the outputs generated from the customer node questions, generate a few headline insights which Data Bank might use to market it’s world-leading security features to potential investors and customers.
+1. Using the outputs generated from the customer node questions, generate a few headline insights that Data Bank might use to market its world-leading security features to potential investors and customers.
 
-2. With the transaction analysis - prepare a 1 page presentation slide which contains all the relevant information about the various options for the data provisioning so the Data Bank management team can make an informed decision.
+2. With the transaction analysis - prepare a 1 page presentation slide that contains all the relevant information about the various options for the data provisioning so the Data Bank management team can make an informed decision.
 
 ***
 
-#### Find my solutions to this case study [here](https://github.com/Favourewoh/SQL-Projects/blob/631c92c3d62495eca960a3cc13b70212d15a3719/Case%20Study%20-%20Data%20Bank/Section%20A%20-%20Exploring%20Customer%20Nodes.md)
+#### Find my solutions to this case study [here](https://github.com/Favourewoh/SQL-Projects/blob/b47dd51f10c3681703355cf3ec6f810ead379c7b/Case%20Study%20-%20Data%20Bank/Section%20A%20-%20Exploring%20Customer%20Nodes.md)
 
 
 
