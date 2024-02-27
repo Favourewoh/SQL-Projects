@@ -60,4 +60,4 @@ ORDER BY
 
 ***
 
-View the Extension Request(slide presentation) [here](Case Study - Data Bank/Extension Request.md) 
+View the Extension Request(slide presentation) [here](https://github.com/Favourewoh/SQL-Projects/blob/69c0a0feb3b8b597dc05fc20c06036e5049a1fab/Case%20Study%20-%20Data%20Bank/Extension%20Request.md) 
