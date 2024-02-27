@@ -133,7 +133,8 @@ GROUP BY
 ![image](https://github.com/Favourewoh/SQL-Projects/assets/124405367/95c7bc56-aa36-4e03-8844-b224e4879bc0)
 
 
+
 ***
 
-### Click [here](https://github.com/Favourewoh/SQL-Projects/blob/631c92c3d62495eca960a3cc13b70212d15a3719/Case%20Study%20-%20Data%20Bank/Section%20B%20-%20Exploring%20Customer%20Transactions.md) to view the Customer Transactions solution!
+### Click [here](https://github.com/Favourewoh/SQL-Projects/blob/9eb1b1da8ea5f7e1ed6329204417530af1d16e82/Case%20Study%20-%20Data%20Bank/Section%20B%20-%20Exploring%20Customer%20Transactions.md) to view the Customer Transactions solution!
 
