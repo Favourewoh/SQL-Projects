@@ -132,5 +132,5 @@ WHERE
 
 
 ***
-### Click [here](https://github.com/Favourewoh/SQL-Projects/blob/8dad864812eac426c9132774d3ea6fffda4511ff/Case%20Study%20-%20Data%20Bank/Data%20Allocation%20Solution.md) to view the Data Allocation Challenge solution!
+### Click [here](https://github.com/Favourewoh/SQL-Projects/blob/c0fa2b527e7fcb00e27a0592076ef7ae8c16ee2f/Case%20Study%20-%20Data%20Bank/Data%20Allocation%20Solution.md) to view the Data Allocation Challenge solution!
 
