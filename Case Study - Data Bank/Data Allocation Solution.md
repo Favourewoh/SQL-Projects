@@ -283,4 +283,4 @@ ORDER BY
 
 ***
 
-### Find the Extra Challenge Solution [here]()
+### Find the Extra Challenge Solution [here](https://github.com/Favourewoh/SQL-Projects/blob/659e40621fbf865ab20f7fd299079a5b8ef831d1/Case%20Study%20-%20Data%20Bank/Extra%20Challenge%20Solution.md)
