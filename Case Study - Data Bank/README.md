@@ -24,8 +24,7 @@ The Data Bank team have prepared a data model for this case study as well as a f
 link to [schema code](https://github.com/Favourewoh/SQL-Projects/blob/631c92c3d62495eca960a3cc13b70212d15a3719/Case%20Study%20-%20Data%20Bank/Schema.SQL)
 
 #### Table 1: Regions
-
-Like popular cryptocurrency platforms, Data Bank is also run off a network of nodes where money and data are stored across the globe. In a traditional banking sense - you can think of these nodes as bank branches or stores that exist around the world. 
+ 
 
 <details>
 <summary>
